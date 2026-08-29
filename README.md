@@ -10,12 +10,12 @@
 <br />
 <br />
 
-<img height="163" src="https://stats.deeptrain.net/api?username=Conastin&show_icons=true&hide_border=true&include_all_commits=true&title_color=FF6FB5&icon_color=C77DFF&text_color=5B616E&bg_color=00000000" alt="Conastin's stats" />
+<img height="163" src="stats.svg" alt="Conastin's stats" />
 <img height="163" src="https://streak-stats.demolab.com?user=Conastin&hide_border=true&background=00000000&ring=FF6FB5&fire=C77DFF&currStreakLabel=FF6FB5&currStreakNum=FF6FB5&longerStreakNum=C77DFF&sideNums=C77DFF&sideLabels=5B616E&dates=5B616E" alt="Conastin's streak" />
 
 <br />
 
-<img height="150" src="https://stats.deeptrain.net/api/top-langs/?username=Conastin&layout=compact&hide_border=true&title_color=FF6FB5&text_color=5B616E&bg_color=00000000&card_width=445" alt="Conastin's top langs" />
+<img height="150" src="langs.svg" alt="Conastin's top langs" />
 
 <br />
 <br />
